@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shane Del Moira Mantua</h1>
  
-<img align="right" alt="Coding" width="450" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<img align="right" alt="Coding" width="400" color="pink" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 📫 How to reach me **shanemantua3@gmail.com**
 - 🌱 I’m currently learning **Bootstrap and React**
@@ -13,5 +13,6 @@
 <a href="https://fb.com/https://www.facebook.com/shanedelmoira.mantua.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanedelmoira.mantua.7" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devshanemantua&show_icons=true&locale=en" alt="devshanemantua" /></p>
+![devshanemantua GitHub stats](https://github-readme-stats.vercel.app/api?username=devshanemantua&show_icons=true&theme=algolia&border_radius=25&line_height=29&hide_rank=true)
+
 
