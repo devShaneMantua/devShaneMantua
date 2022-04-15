@@ -13,6 +13,6 @@
 <a href="https://fb.com/https://www.facebook.com/shanedelmoira.mantua.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shanedelmoira.mantua.7" height="30" width="40" /></a>
 </p>
 
-![devshanemantua GitHub stats](https://github-readme-stats.vercel.app/api?username=devshanemantua&show_icons=true&theme=algolia&border_radius=25&line_height=29&hide_rank=true)
+![devshanemantua GitHub stats](https://github-readme-stats.vercel.app/api?username=devshanemantua&show_icons=true&theme=algolia&border_radius=25)
 
 
