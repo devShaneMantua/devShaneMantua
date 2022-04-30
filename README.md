@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
 - 📫 How to reach me **shanemantua3@gmail.com**
-- 🌱 I’m currently learning **Bootstrap and React**
+- 🌱 I’m currently learning **Tailwind and React**
 <h3 align="left">My Portfolio:</h3>
  👨‍💻 https://devshanemantua.github.io/ShaneM-Portfolio/
 - 
