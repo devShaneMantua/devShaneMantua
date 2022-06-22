@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **shanemantua3@gmail.com**
 - 🌱 I’m currently learning more about **React**
-<h3 align="left">My Portfolio:</h3>
+<h3 align="left">New Portfolio:</h3>
  👨‍💻 https://shanedelmoiramantua.netlify.app/
 - 
 <h3 align="left">Connect with me:</h3>
