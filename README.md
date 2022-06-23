@@ -91,7 +91,7 @@
 
 ---
  
-<h4 align="center">Let me tell you a 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚢𝚜𝚎𝚕𝚏 </h4>
+<h4 align="center">𝙻𝚎𝚝 𝚖𝚎 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞 𝚊 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚢𝚜𝚎𝚕𝚏</h4>
   <p align="left"> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&duration=3000&color=39FF14&multiline=true&width=900&height=310&lines=%F0%9F%91%A9+She%2FHer;%F0%9F%A4%94+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua+but+everyone+calls+me+Shen;%F0%9F%A4%93+A+Passionate+Front-end+web+developer+from+the+Philippines;%F0%9F%92%BB+Aiming+to+become+a+Full+stack+developer+and+Senior+web+developer;%F0%9F%92%BC+Only+rest+when+most+of+the+work+is+done+;%F0%9F%92%96+I'm+more+into+CSS+than+JavaScript+;%F0%9F%8E%93+Graduating+Senior+High+School+soon;%F0%9F%98%8D+A+night+owl+person+who+loves+Anime+and+Webtoon;++++%7B%5C__%2F%7D+;++++(%EF%BD%A1%E2%80%A2%CC%80%E1%B4%97-)%E2%9C%A7++congrats+reaching+to+the+end;++++%2F+%3E%E2%98%95+here+have+some+coffee;Now+you+know+me+Stranger" alt="About Me"/> 
   </p>
