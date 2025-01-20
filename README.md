@@ -12,45 +12,76 @@
 
 <div align="center">
 <h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</h3>
+
+<!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages-->
+
 <div>
    <!-- React -->
  <a href="https://github.com/devShaneMantua/Strans-bankapp_website.git" target="_blank">
     <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  </a>
    
-   <!-- JavaScript -->
- <a href="https://github.com/devShaneMantua/Strans-bankapp_website.git" target="_blank">
-    <img src="https://img.shields.io/badge/-javascript-F7DF1E?.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
- </a>
-   
    <!-- HTML -->
  <a href="https://github.com/devShaneMantua/Shane-Bookstore.git" target="_blank">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=black"/>
  </a>
-  
-   <!-- Python -->
- <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/-python-3776AB?.svg?&style=for-the-badge&logo=python&logoColor=black"/>
- </a>
 
-   <!-- Framer Motion -->
- <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Framer Motion%20-%236004ff.svg?&style=for-the-badge&logo=framer motion&logoColor=black"/>
- </a>
-</div> 
-
-<div> 
-
-  <!-- CSS -->
+   <!-- CSS -->
  <a href="https://github.com/devShaneMantua/ShaneM-Portfolio.git" target="_blank">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=black"/>
  </a>
-  
-  <!-- Styled Components -->
+
+ <!-- Styled Components -->
  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/-Styled Components-DB7093?.svg?&style=for-the-badge&logo=styled components&logoColor=black"/>
  </a>
+
+</div>
+
+<br>
+
+<div>
+  <!-- JavaScript -->
+ <a href="https://github.com/devShaneMantua/Strans-bankapp_website.git" target="_blank">
+    <img src="https://img.shields.io/badge/-javascript-F7DF1E?.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+ </a>
+
+  <!-- Python -->
+ <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/-python-3776AB?.svg?&style=for-the-badge&logo=python&logoColor=black"/>
+ </a>
  
+  <!--C -->
+ <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=black"/>
+ </a>
+</div>
+
+<br>
+
+<div>
+  
+  <!-- MySQL -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=black"/>
+  </a>
+  
+  <!-- SQLite -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=black"/>
+  </a>
+  
+  <!-- MongoDB -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  </a>
+  
+</div>
+
+<br>
+
+<div>
+
   <!-- Bootstrap -->
  <a href="https://github.com/devShaneMantua/Bootstrap-Cheatsheet.git" target="_blank">
     <img src="https://img.shields.io/badge/-bootstrap-7952B3?.svg?&style=for-the-badge&logo=bootstrap&logoColor=black"/>
@@ -60,7 +91,42 @@
  <a href="https://github.com/devShaneMantua/Facebook-UI-clone.git" target="_blank">
     <img src="https://img.shields.io/badge/-tailwind css-06B6D4?.svg?&style=for-the-badge&logo=tailwind css&logoColor=black"/>
  </a>
+
+ <!-- Framer Motion -->
+ <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Framer Motion%20-%236004ff.svg?&style=for-the-badge&logo=framer motion&logoColor=black"/>
+ </a>
+</div>
+
+<br>
+
+<div>
+  <!-- Figma -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  </a>
+  
+  <!-- Framer -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Framer-grey?style=for-the-badge&logo=framer&logoColor=black"/>
+  </a>
+  
+  <!-- Canva -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black"/>
+  </a>
+ 
+</div>
+
+<!--
+<div>
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src=""/>
+  </a>
 </div> 
+-->
+
+
   
 <br>
   
@@ -90,7 +156,8 @@
  </p>
 
 ---
- 
+<!--https://readme-typing-svg.demolab.com/demo/?duration=800&pause=502&color=A7D477&vCenter=true&multiline=true&width=620&height=303&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua;%F0%9F%93%85+February+14%2C+2005;%F0%9F%8E%93+IT+Student;%F0%9F%92%BB+Web+Developer+%26+Programmer;%F0%9F%8E%A8+Web+%26+SaaS+Designer;%F0%9F%9A%80+Future+SaaS+Founder+%26+SaaS+Design+Agency+Founder;%F0%9F%8E%AF+Aiming+to+make+an+impact+in+the+SaaS+world;%F0%9F%98%8D+Big+fan+of+Manhwa;%F0%9F%8C%B1+Constantly+improving+myself;+++++%E2%99%A1%E2%88%A9%2C%2C%2C%2C%2C%E2%88%A9;+++++(%E2%80%9E%E2%80%A2+%D6%8A+%E2%80%A2%E2%80%9E)+%E2%99%A1-->
+
 <h4 align="center">𝙻𝚎𝚝 𝚖𝚎 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞 𝚊 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚢𝚜𝚎𝚕𝚏</h4>
   <p align="left">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=502&color=A7D477&vCenter=true&multiline=true&width=620&height=303&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua;%F0%9F%93%85+February+14%2C+2005;%F0%9F%8E%93+IT+Student;%F0%9F%92%BB+Web+Developer+%26+Programmer;%F0%9F%8E%A8+Web+%26+SaaS+Designer;%F0%9F%9A%80+Future+SaaS+Founder+%26+SaaS+Design+Agency+Founder;%F0%9F%8E%AF+Aiming+to+make+an+impact+in+the+SaaS+world;%F0%9F%98%8D+Big+fan+of+Manhwa;%F0%9F%8C%B1+Constantly+improving+myself;%E2%99%A1%E2%88%A9%2C%2C%2C%2C%2C%E2%88%A9;(%E2%80%9E%E2%80%A2+%D6%8A+%E2%80%A2%E2%80%9E)+%E2%99%A1" alt="Typing SVG" /></a>
