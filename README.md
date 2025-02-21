@@ -11,7 +11,7 @@
 </h1>
 
 <div align="center">
-<h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚃𝚘𝚘𝚕𝚜</h3>
+<h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 Learned</h3>
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages-->
 
