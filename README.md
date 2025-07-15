@@ -11,7 +11,8 @@
 </h1>
 
 <div align="center">
-<h3>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 Learned</h3>
+
+<h1>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 & 𝚃𝚘𝚘𝚕𝚜 Learned</h1>
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages-->
 
@@ -67,7 +68,6 @@
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&style=for-the-badge"/>
  </a>
 
- 
 </div>
 
 <br>
@@ -104,7 +104,6 @@
  <a href="https://github.com/devShaneMantua/Facebook-UI-clone.git" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
  </a>
-
 
  <!-- Framer Motion -->
  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
@@ -176,11 +175,9 @@
   <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
       <img src=""/>
   </a>
-</div> 
+</div>
 -->
 
-
-  
 <br>
   
 <details>
@@ -190,7 +187,6 @@
 </details> 
   
 </div>
-
 
 <p align="right">
     <img  width="50" src="https://media4.giphy.com/media/UrCybfHo3r1kmTZfJR/giphy.gif?cid=790b7611f4da43712867874599f73b1660d0440c068b1c43&rid=giphy.gif&ct=s"  alt="Get In Touch"  />
@@ -209,8 +205,8 @@
  </p>
 
 ---
-<!--https://readme-typing-svg.demolab.com/demo/?duration=800&pause=502&color=00FF00&vCenter=true&multiline=true&width=620&height=400&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua;%F0%9F%93%85+February+14%2C+2005;%F0%9F%8E%93+IT+Student;%F0%9F%92%BB+Web+Developer+%26+Programmer;%F0%9F%8E%A8+Web+%26+SaaS+Designer;%F0%9F%9A%80+Future+SaaS+Founder+%26+SaaS+Design+Agency+Founder;%F0%9F%8E%AF+Aiming+to+make+an+impact+in+the+SaaS+world;%F0%9F%98%8D+Big+fan+of+Manhwa;%F0%9F%8C%B1+Constantly+improving+myself;+%E2%99%A1%E2%88%A9%2C%2C%2C%2C%2C%E2%88%A9;+(%E2%80%9E%E2%80%A2+%D6%8A+%E2%80%A2%E2%80%9E)+%E2%99%A1;%E2%80%8E+;%E2%8A%B9+%E0%A3%AA+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%E2%8A%B9+%E0%A3%AA+%CB%96)-->
 
+<!--https://readme-typing-svg.demolab.com/demo/?duration=800&pause=502&color=00FF00&vCenter=true&multiline=true&width=620&height=400&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hi%2C+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua;%F0%9F%93%85+February+14%2C+2005;%F0%9F%8E%93+IT+Student;%F0%9F%92%BB+Web+Developer+%26+Programmer;%F0%9F%8E%A8+Web+%26+SaaS+Designer;%F0%9F%9A%80+Future+SaaS+Founder+%26+SaaS+Design+Agency+Founder;%F0%9F%8E%AF+Aiming+to+make+an+impact+in+the+SaaS+world;%F0%9F%98%8D+Big+fan+of+Manhwa;%F0%9F%8C%B1+Constantly+improving+myself;+%E2%99%A1%E2%88%A9%2C%2C%2C%2C%2C%E2%88%A9;+(%E2%80%9E%E2%80%A2+%D6%8A+%E2%80%A2%E2%80%9E)+%E2%99%A1;%E2%80%8E+;%E2%8A%B9+%E0%A3%AA+%EF%B9%8F%F0%93%8A%9D%EF%B9%8F%F0%93%82%81%EF%B9%8F%E2%8A%B9+%E0%A3%AA+%CB%96)-->
 
 <h4 align="center">𝙻𝚎𝚝 𝚖𝚎 𝚝𝚎𝚕𝚕 𝚢𝚘𝚞 𝚊 𝚕𝚒𝚝𝚝𝚕𝚎 𝚊𝚋𝚘𝚞𝚝 𝙼𝚢𝚜𝚎𝚕𝚏</h4>
   <p align="left">
@@ -221,4 +217,3 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&duration=3000&color=39FF14&multiline=true&width=900&height=310&lines=%F0%9F%91%A9+She%2FHer;%F0%9F%A4%94+My+name+is+Shane+Del+Moira+Santia%C3%B1ez+Mantua+but+everyone+calls+me+Shen;%F0%9F%A4%93+A+Passionate+Front-end+web+developer+from+the+Philippines;%F0%9F%92%BB+Aiming+to+become+a+Full+stack+developer+and+Senior+web+developer;%F0%9F%92%BC+Only+rest+when+most+of+the+work+is+done+;%F0%9F%92%96+I'm+more+into+CSS+than+JavaScript+;%F0%9F%8E%93+Graduating+Senior+High+School+soon;%F0%9F%98%8D+A+night+owl+person+who+loves+Anime+and+Webtoon;++++%7B%5C__%2F%7D+;++++(%EF%BD%A1%E2%80%A2%CC%80%E1%B4%97-)%E2%9C%A7++congrats+reaching+to+the+end;++++%2F+%3E%E2%98%95+here+have+some+coffee;Now+you+know+me+Stranger" alt="About Me"/>
 
 -->
- 
