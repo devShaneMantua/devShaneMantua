@@ -33,7 +33,8 @@
 
  <!-- Styled Components -->
  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/-Styled Components-DB7093?.svg?&style=for-the-badge&logo=styled components&logoColor=black"/>
+    <img src="https://img.shields.io/badge/-StyledComponents-DB7093?.svg?&style=for-the-badge&logo=styledcomponents&logoColor=black"/>
+   
  </a>
 
 </div>
@@ -51,10 +52,22 @@
     <img src="https://img.shields.io/badge/-python-3776AB?.svg?&style=for-the-badge&logo=python&logoColor=black"/>
  </a>
  
-  <!--C -->
+  <!-- C -->
  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=black"/>
  </a>
+ 
+  <!-- Java -->
+ <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge"/>
+ </a>
+ 
+  <!-- PHP -->
+ <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white&style=for-the-badge"/>
+ </a>
+
+ 
 </div>
 
 <br>
@@ -89,12 +102,13 @@
  
   <!-- Tailwind -->
  <a href="https://github.com/devShaneMantua/Facebook-UI-clone.git" target="_blank">
-    <img src="https://img.shields.io/badge/-tailwind css-06B6D4?.svg?&style=for-the-badge&logo=tailwind css&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?.svg?&style=for-the-badge&logo=tailwindcss&logoColor=black"/>
  </a>
+
 
  <!-- Framer Motion -->
  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Framer Motion%20-%236004ff.svg?&style=for-the-badge&logo=framer motion&logoColor=black"/>
+    <img src="https://img.shields.io/badge/FramerMotion%20-%236004ff.svg?&style=for-the-badge&logo=framermotion&logoColor=black"/>
  </a>
 </div>
 
@@ -115,7 +129,46 @@
   <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
       <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=black"/>
   </a>
+  
+  <!-- Express JS -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  </a>
+  
+  <!-- Next JS -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  </a>
+  
+  <!-- Node JS -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </a>
+  
+  <!-- Shadcn -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge"/>
+  </a>
+  
+  <!-- Vite -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge"/>
+  </a>
+  
+  <!-- Prisma -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge"/>
+  </a>
  
+</div>
+
+  <!-- Typescript -->
+  <a href="https://github.com/devShaneMantua?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
+  </a>
+
+<div>
+  
 </div>
 
 <!--
@@ -143,15 +196,15 @@
     <img  width="50" src="https://media4.giphy.com/media/UrCybfHo3r1kmTZfJR/giphy.gif?cid=790b7611f4da43712867874599f73b1660d0440c068b1c43&rid=giphy.gif&ct=s"  alt="Get In Touch"  />
         <!-- Gmail -->
         <a href="mailto:shanemworkacc@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+            src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white">
         </a>
         <!-- Linkedin -->
         <a href="https://www.linkedin.com/in/ShanedelmoiraMantua" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff">
         </a>
         <!-- Facebook -->
         <a href="https://www.facebook.com/shanedelmoira.mantua.7" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
+            src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white">
         </a>
  </p>
 
